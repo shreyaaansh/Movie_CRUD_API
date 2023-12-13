@@ -22,7 +22,8 @@ Steps to follow:
 
 
 **UML Diagram for workflow**
-![Golang MiniPro drawio](https://github.com/shreyaaansh/Movie_CRUD_API/assets/85485959/9d660906-128e-462a-b763-101e0a623add)
+![Untitled Diagram drawio](https://github.com/shreyaaansh/Movie_CRUD_API/assets/85485959/805dfa7d-3bff-4fcc-95a2-bbaa2b74f17e)
+
 
 
 **Screenshot of shell running on port 8000**
