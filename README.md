@@ -52,6 +52,9 @@ Gorilla Mux: A powerful URL router and dispatcher for Golang HTTP handlers.
 ### UML Diagram for workflow
 ![Untitled Diagram drawio](https://github.com/shreyaaansh/Movie_CRUD_API/assets/85485959/805dfa7d-3bff-4fcc-95a2-bbaa2b74f17e)
 
+### Sequence Diagram 
+![mermaid-diagram-2023-12-17-223044](https://github.com/shreyaaansh/Movie_CRUD_API/assets/85485959/3cd14e08-893d-45c6-a624-a60015133824)
+
 
 
 ### Screenshot of shell running on port 8000
